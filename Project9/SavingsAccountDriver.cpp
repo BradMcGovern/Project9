@@ -11,6 +11,7 @@ int main()
 
 	cout << setprecision(2) << fixed;
 
+	cout << "This is a test" << endl;
 	cout << "Starting balance for saver1 is: $" << saver1.getSavingsBalance() << endl;
 	cout << "Starting balance for saver2 is: $" << saver2.getSavingsBalance() << endl;
 
